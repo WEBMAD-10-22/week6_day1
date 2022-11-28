@@ -1,0 +1,16 @@
+.button {
+  color: white;
+  max-width: max-content;
+  border-radius: 4px;
+  padding: 8px;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.red {
+  background-color: red;
+}
+
+.black {
+  background-color: black;
+}
